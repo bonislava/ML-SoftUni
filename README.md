@@ -1,6 +1,6 @@
 # ML-SoftUni
 
-## Overview
+## House Price Prediction - Overview
 This project aims to predict house prices using Machine Learning techniques.
 
 ### Dataset Details
